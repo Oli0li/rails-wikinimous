@@ -1,24 +1,5 @@
-# README
+# Anonymous blogging website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Website where anyone can publish, edit, or delete articles.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Created using Ruby on Rails, the faker gem to create article names and contents, and Bootstrap to add some style.
